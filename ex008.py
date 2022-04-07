@@ -6,3 +6,4 @@ m = (n1 + n2 + n3) / 3
 print('a média é: {:.1f} !'.format(m))
 
 
+
